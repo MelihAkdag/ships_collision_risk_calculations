@@ -1,2 +1,2 @@
-# ships_collision_risk_calculations
-Distance and time to closest point of approach and collision risk index calculation for ships.
+# Collision Risk Evaluation for Ships
+Functions to calculate distance and time to closest point of approach (DCPA, TCPA), and collision risk index (CRI) values for ship encounters are presented.
